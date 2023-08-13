@@ -1,0 +1,98 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.container {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.block_1 {
+    padding-top: 40px;
+}
+
+.menu_bar {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    color: #000000;
+    text-decoration: None;
+    line-height: 16.5px;
+
+}
+
+.orange {
+    color: #F25822;
+}
+
+.pad-right {
+    padding-right: 25px;
+}
+
+.pad-left {
+    padding-left: 200px;
+}
+
+.button-orange {
+    border: 1px #F25822 solid;
+    background-color: #F25822;
+    color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+.block_2 {
+    display: flex;
+    padding-top: 84px;
+    padding-bottom: 103px;
+
+}
+
+.info_1_title {
+    font-weight: bolder;
+    width: 100%;
+    font-size: 50px;
+    padding-top: 59px;
+}
+
+.info_1_subtitle {
+    color: #888888;
+    width: 85%;
+    padding-bottom: 37px;
+    font-size: 16px;
+}
+
+.bigger_button {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.align_center {
+    display: flex;
+    align-items: center;
+}
+
+
+.button_play {
+    color: #AAAAAA;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.button_play img {
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.logo_spacing {
+    padding-right: 15px;
+}
