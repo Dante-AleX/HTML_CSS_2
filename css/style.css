@@ -7,7 +7,7 @@ body {
     padding-right: 200px;
 }
 
-.block_1 {
+.block_1_1 {
     padding-top: 40px;
 }
 
@@ -47,21 +47,21 @@ a {
     font-weight: bold;
 }
 
-.block_2 {
+.block_2_1 {
     display: flex;
     padding-top: 84px;
     padding-bottom: 103px;
 
 }
 
-.info_1_title {
+.info_1_1_title {
     font-weight: bolder;
     width: 100%;
     font-size: 50px;
     padding-top: 59px;
 }
 
-.info_1_subtitle {
+.info_1_1_subtitle {
     color: #888888;
     width: 85%;
     padding-bottom: 37px;
@@ -96,3 +96,49 @@ a {
 .logo_spacing {
     padding-right: 15px;
 }
+
+/* Second Block Page */
+
+.container_2 {
+    background-color: #FAFAFA;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.block_1_2 {
+    padding-top: 100px;
+    height: 289px;
+    width: 110%;
+} 
+
+.perfect_solution {
+    display: flex;
+    align-items: center;
+}
+
+.info_1_2 {
+    flex: 1;
+    padding: 20px;
+    padding-right: 100px;
+
+}
+
+.info_1_2_title {
+    font-weight: bolder;
+    width: 100%;
+    font-size: 30px;
+    padding-top: 59px;
+}
+
+.info_1_2_subtitle {
+    color: #888888;
+    width: 190%;
+    padding-bottom: 37px;
+    font-size: 16px;
+}
+
+.macbook-image {
+    max-width: 100%;
+    height: auto;
+}
+
